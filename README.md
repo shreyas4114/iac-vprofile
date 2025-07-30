@@ -2,7 +2,7 @@
 
 ## 📎 Related Repositories
 
-➡️ [vprofile-action](https://github.com/user/vprofile-action): Microservices application deployed to this EKS cluster.
+➡️ [vprofile-action](https://github.com/shreyas4114/vprofile-action): Microservices application deployed to this EKS cluster.
 
 Infrastructure as Code (IaC) for deploying a production-ready AWS EKS (Elastic Kubernetes Service) cluster using Terraform and GitHub Actions.
 
